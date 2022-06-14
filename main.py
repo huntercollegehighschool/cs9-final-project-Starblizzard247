@@ -1,6 +1,6 @@
 """
-Name(s):
-Name of Project:
+Name(s): Stefani Myung
+Name of Project: Mad Libs
 """
 
 #Write the main part of your program here. Use of the other pages is optional.
