@@ -1,1 +1,3 @@
 #Use of this page is optional. If you use code here, make sure either import page3 or from page3 import * appear on your main.py page.
+
+#I am a/an noun1. My parents are noun2s. My sister us a/an noun3. My brother is a/an noun4. Because of this, we all like to disagree with each other. Whether it be a matter of noun5 or noun 6, we will always disagree. One example was when we were cooking dinner. I wanted food1. My parents wanted food2. My sister wanted food3. My brother wanted food4. We fought and fought and fought until timeof day1, when we fell asleep, too exhausted to argue further.

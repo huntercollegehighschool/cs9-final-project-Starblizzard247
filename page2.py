@@ -1,1 +1,3 @@
 #Use of this page is optional. If you use code here, make sure either import page2 or from page2 import * appear on your main.py page.
+
+#You have been living in place1 for the past number1 years. It is a/an place, fufilling your needs sufficiently. But you've always wanted more. One adjective1 day, you pack your noun1 and noun2 and head out the door, before verbing1 place1. You set out for a long journey to find a new home. You verb2 through place2 and place3, climbing terrain1 and terrain2. Then, number2 years later, you find place4. You settle down, happy to find a place you are truly happy.
