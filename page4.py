@@ -1,5 +1,21 @@
 #Use of this page is optional. If you use code here, make sure either import page4 or from page4 import * appear on your main.py page.
 
-#reach for my noun1. I'll verb1 away. Into the noun2, oh, I wish I could verb2. Here in adjective1 halls, in adjective2 halls, I fear the edge of dawn, knowing noun3 betrays.Adjective3 lights pass, through adjective4 glass in this adjective5 place. noun4  shines, a noun 5 on each face, as choice surrounds, noun6 abounds, and I can feel i'm breaking free. For just this noun7 lost in time, i am finally me.
+#reach for my noun1. I'll verb1 away. Into the noun2, oh, I wish I could verb2. Here in adjective1 halls, in adjective2 days, I fear the edge of dawn, knowing noun3 betrays.Adjective3 lights pass, through adjective4 glass in this adjective5 place. noun4  shines, a noun 5 on each face, as choice surrounds, noun6 abounds, and I can feel i'm breaking free. For just this noun7 lost in time, i am finally me.
 
-#reach for my hand i'll soar away into the dawn oh i wish i could stay here in cherished halls in peaceful days i fear the edge of dawn knowing time betrays faint lights pass through colored glass in this beloved place silver shines the world dines a smile on each face as choice surrounds comfort abounds and i can feel i'm breaking free for just this moment lost in time i am finally me yet still i hide behind this mask that i have become my blackened heart scorched by flames of force i can't run from as i live out each peaceful day deep in my soul oh i know i can't stay so i wish i could hide away hold tight to what i love keep cruel fate at bay as the rain falls on the path i chase your shadow i don't feel a single drop or the ground below then you turn to me and i stop before i know and the lie upon my lips i let it go cross my heart making vows i know will be betrayed a sad girls pleas live only for a breath and then they fade don't ever take back your kind hand lest precious love slip away like time's sand only we will know all that was lost scars that we can't erase knowing life's true cost the blue moonlight cuts across our sight as pure and clear as a ringing bell reaching for us in the night as the wind calms my thoughts i have strung on this terrace i feel the peace carried away by the wind's song open the door and walk away never give in to the call of yesterday memories then made those days sublime these ruined halls entomb stolen time reach for my hand i'll soar away into the dawn oh i wish i could stay here in cherished halls in peaceful days i fear the edge of dawn knowing time betrays
+noun1 = input("Enter a noun: ")
+verb1 = input("Enter a verb: ")
+noun2 = input("Enter a noun: ")
+verb2 = input("Enter a verb: ")
+adjective1 = input("Enter an adjective: ")
+adjective2 = input("Enter an adjective: ")
+noun3 = input("Enter a singular noun: ")
+adjective3 = input("Enter an adjective with the first letter capitalized: ")
+adjective4 = input("Enter an adjective: ")
+adjective5 = input("Enter an adjective: ")
+noun4 = input("Enter a noun with the first letter capitalized: ")
+noun5 = input("Enter a noun: ")
+noun6 = input("Enter a noun: ")
+noun7 = input("Enter a singular noun: ")
+
+print("Reach for my " + noun1 + ". I\'ll " + verb1 + " away. Into the " + noun2 + ", oh I wish I could " + verb2 +". Here in " + adjective1 + " halls, in " + adjective2 + " days, I fear the edge of dawn, knowing " + noun3 + " betrays. " + adjective3 + " lights pass through " + adjective4 + " glass in this " + adjective5 + " place. " + noun4 + " shines. The world dines, a " + noun5 + " on each face. As choice surrounds, " + noun6 + " abounds, and I can feel I\'m breaking free. For just this " + noun7 + " lost in time, I am finally me.")
+print("Original Lyrics: Reach for my hand. I\'ll soar away. Into the dawn, oh, I wish I could stay. Here in cherished halls, in peaceful days, I fear the edge of dawn, knowing time betrays. Faint lights pass through colored glass in this beloved place. Silver shines. The world dines, a smile on each face. As choice surrounds, comfort abounds, and I can feel I\'m breaking free. For just this moment lost in time, I am finally me.")
